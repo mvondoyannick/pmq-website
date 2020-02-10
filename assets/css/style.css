@@ -38,7 +38,7 @@ Description: Responsive HTML5 / CSS3 One-page Landing App Template.
 body {
     line-height: 24px;
     font-size: 14px;
-    color: #FFAF06BD;
+    color: #222; /* #FFAF06BD; */
 	font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
