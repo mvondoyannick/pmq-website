@@ -466,6 +466,7 @@ input::-webkit-input-placeholder {
     background-position: center;
     background-size: cover;
 }
+
 .feature-area::before {
 	content: "";
 	top: 0;
@@ -476,10 +477,25 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #ecb731 1%,#ecb731 24%,#ecb731 67%,#ecb731 100%);
 	z-index: -1;
 	position: absolute;
 }
+
+/* .feature-area::before {
+	content: "";
+	top: 0;
+	left: 0;
+    opacity: 0.85;
+	right: 0;
+	bottom: 0;
+	background: #000529; /* Old browsers */
+	/* background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
+	/* background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
+	/* background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	z-index: -1;
+	position: absolute;
+} */
 .single-feature-box h4 {
     font-size: 20px;
     margin-bottom: 5px;
