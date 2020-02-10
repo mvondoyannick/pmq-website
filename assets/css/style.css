@@ -38,7 +38,7 @@ Description: Responsive HTML5 / CSS3 One-page Landing App Template.
 body {
     line-height: 24px;
     font-size: 14px;
-    color: #666666;
+    color: #FFAF06BD;
 	font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
@@ -361,7 +361,7 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #ecb731 1%,#ecb731 24%,#ecb731 67%,#ecb731 100%);
 }
 .header.sticky {
 	padding: 10px 0;
@@ -399,7 +399,7 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #ecb731 1%,#ecb731 24%,#ecb731 67%,#ecb731 100%);
 }
 .hero-area-content {
     color: #fff;
