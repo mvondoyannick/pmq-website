@@ -288,7 +288,7 @@ textarea:focus {
 	background: #000529; /* Old browsers */
 	background-image: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background-image: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background-image: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background-image: linear-gradient(to right, #b88914 1%,#dba724 24%,#ecb731 67%,#ecb731 100%);
 }
 .appao-btn2:hover {
     border: 1px solid #000529;
@@ -399,7 +399,7 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #ecb731 1%,#ecb731 24%,#ecb731 67%,#ecb731 100%);
+	background: linear-gradient(to right, #aa811a 1%,#cc9a1d 24%,#dfa512 67%,#ecb731 100%);
 }
 .hero-area-content {
     color: #fff;
@@ -435,7 +435,7 @@ input::-webkit-input-placeholder {
     transition: all 0.4s;
 }
 .single-about-box i::before {
-    color: #0074da;
+    color: #daa728; /*#0074da;*/
     font-size: 40px;
     transition: all 0.4s;
     display: block;
@@ -578,7 +578,7 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #b38614 1%,#d49f19 24%,#ecb731 67%,#ecb731 100%);
     opacity: 0.85;
     z-index: -1;
 }
@@ -969,7 +969,7 @@ input::-webkit-input-placeholder {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #c29011 1%,#dda71f 24%,#ecb731 67%,#ecb731 100%);
     opacity: 0.85;
     z-index: -1;
 }
@@ -1083,7 +1083,7 @@ h4.post-title a {
 	background: #000529; /* Old browsers */
 	background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+	background: linear-gradient(to right, #af8210 1%,#daa318 24%,#ecb731 67%,#ecb731 100%);
     opacity: 0.85;
     z-index: -1;
 }
@@ -1203,7 +1203,7 @@ h4.post-title a {
     padding: 15px 30px;
     border: 0;
     border-radius: 30px;
-    background: #0074da;
+    background: #aa7e0e; /*#0074da;*/
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -1402,7 +1402,7 @@ h4.post-title a {
     background-color: #000529;
     background-image: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%);
     background-image: -webkit-linear-gradient(left, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
-    background-image: linear-gradient(to right, #000529 1%,#002055 24%,#005db5 67%,#0074d9 100%);
+    background-image: linear-gradient(to right, #c2921a 1%,#c7961b 24%,#dda926 67%,#ecb731 100%);
     display: inline-block;
     width: 40px;
     height: 40px;

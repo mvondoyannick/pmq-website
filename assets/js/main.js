@@ -173,15 +173,15 @@
 	/*----------------------------
     START - Switcher animation
     ------------------------------ */
-	// $('#toggle-switcher').on('click', function(){
-	// 	if($(this).hasClass('open')){
-	// 		$(this).removeClass('open');
-	// 		$('#switch-style').animate({'right':'-232px'});
-	// 	}else{
-	// 		$(this).addClass('open');
-	// 		$('#switch-style').animate({'right':'0'});
-	// 	}
-	// });
+	$('#toggle-switcher').on('click', function(){
+		if($(this).hasClass('open')){
+			$(this).removeClass('open');
+			$('#switch-style').animate({'right':'-232px'});
+		}else{
+			$(this).addClass('open');
+			$('#switch-style').animate({'right':'0'});
+		}
+	});
 	
 	/*----------------------------
     START - Preloader
